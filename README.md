@@ -1,1 +1,3 @@
 # Blue-Blur-Advance-Port
+The 32-bit speed game you renember...
+REBUILD FOR MODERN AND OLD ANDROID
